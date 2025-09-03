@@ -36,7 +36,7 @@ Clone the Repository:
 
 Bash
 
-git clone [your-repository-url]
+git clone [[your-repository-url](https://github.com/sachin09999/WedPlanner.git)]
 Open in Android Studio:
 Open the project in Android Studio.
 
